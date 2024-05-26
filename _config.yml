@@ -14,16 +14,16 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Soumyodeep-Blog # the main title
+title: Soumyodeep Dey # the main title
 
 tagline: A Personal Blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A personal blog with science, travel and personal stories.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://soumyodeepdey.github.io/blog"
+url: "https://soumyodeepdey.github.io"
 
 github:
   username: github_username # change to your github username
